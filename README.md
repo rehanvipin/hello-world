@@ -1,2 +1,5 @@
 # hello-world
-My first repository, contains a program to solve the man goat wolf cabbage puzzle.
+My first repository.
+
+Some classics.
+As a bonus for coming here, check out speedy draw :smile:
